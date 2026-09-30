@@ -1,0 +1,48 @@
+# LLM APIs
+openai
+google-genai
+pydantic
+tenacity
+
+# ML / Deep Learning
+torch
+transformers
+xformers
+numpy
+scipy
+
+# Data
+pandas
+datasets
+
+# Visualization
+matplotlib
+seaborn
+tqdm
+
+# Document processing
+pymupdf4llm
+pypdf
+scipdf-parser
+feedparser
+
+# OpenReview
+openreview-py
+
+# Web / Database
+flask
+flask-cors
+sqlalchemy
+psycopg2-binary
+
+# vLLM (local model serving)
+vllm
+uvloop
+
+
+# Utilities
+requests
+curl_cffi  # APS PDF downloads: impersonate a browser TLS fingerprint to pass Cloudflare
+joblib
+python-dotenv
+jupyter
